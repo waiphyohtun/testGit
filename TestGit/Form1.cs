@@ -19,7 +19,7 @@ namespace TestGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hi WelCome" + textBox1.Text);
+            MessageBox.Show("hi WelCome");
         }
     }
 }
