@@ -19,7 +19,8 @@ namespace TestGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f = new Form2();
+            string s = "a";
+            Form2 f = new Form2(s);
             f.ShowDialog();
         }
     }

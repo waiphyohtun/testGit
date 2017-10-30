@@ -12,14 +12,16 @@ namespace TestGit
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        string str = "";
+        public Form2(string s)
         {
             InitializeComponent();
+            str = s;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("VVVVVVVVVVVVVVV");
+            MessageBox.Show("Answer :" + str);
         }
     }
 }
