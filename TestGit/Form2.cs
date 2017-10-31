@@ -21,7 +21,9 @@ namespace TestGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Answer :" + str);
+			string a = textBox1.Text.ToString();
+			string b = textBox2.Text.ToString();
+			MessageBox.Show("Answer :" + a + " " + b);
         }
     }
 }
