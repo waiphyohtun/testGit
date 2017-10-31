@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1716952,
+    "Username": "waiphyoe",
+    "Name": "waiphyoe",
+    "Email": "wayphyoe123@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/0da253770c326b9a1510aeccf6390ee5?s=80&d=identicon",
+    "PrivateToken": "JayKnQyMKR-qtSubP8A-",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 1
+  }
+}
